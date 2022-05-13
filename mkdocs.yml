@@ -10,3 +10,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+extra:
+  homepage: index.md
