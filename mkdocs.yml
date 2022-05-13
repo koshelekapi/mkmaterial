@@ -4,7 +4,7 @@ repo_name: koshelekapi/mkmaterial
 edit_uri: docs
 
 nav:
-  - First page: docs/developers-en/mainpage_en.md
+  - First page: developers-en/mainpage_en.md
 
 markdown_extensions:
   - admonition
