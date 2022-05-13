@@ -13,4 +13,4 @@ theme:
       - xml
   navigation_depth: 4
 nav:
-  - First Page: '/developers-en/mainpage_en.md'
+  - First Page: 'developers-en/mainpage_en.md'
