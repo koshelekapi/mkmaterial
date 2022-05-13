@@ -1,4 +1,7 @@
 site_name: My Docs
+repo_url: https://github.com/koshelekapi/mkmaterial
+repo_name: koshelekapi/mkmaterial
+edit_uri: edit/master/docs
 
 markdown_extensions:
   - admonition
