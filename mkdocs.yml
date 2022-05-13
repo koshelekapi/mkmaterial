@@ -5,12 +5,12 @@ repo_name: MkMaterial
 edit_uri: edit/master/docs
 theme:
   name: mkdocs
-  locale: en
   highlightjs: true
   hljs_languages:
       - javascript
       - html
       - xml
   navigation_depth: 4
+  locale: en
 nav:
   - First Page: 'developers-en/mainpage_en.md'
