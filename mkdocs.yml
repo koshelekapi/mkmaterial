@@ -14,3 +14,6 @@ theme:
   locale: en
 nav:
   - First Page: 'developers-en/mainpage_en.md'
+plugins:
+  - mike:
+      version_selector: true
